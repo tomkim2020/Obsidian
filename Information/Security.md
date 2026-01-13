@@ -59,3 +59,8 @@ PW : 27M]pn4tQ*dXXK=H@
 - gitlab 주소 : [http://10.10.50.52:8929](http://10.10.50.52:8929/)
 - kth@infinitt.com / 99
 - ![[{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png]]
+
+
+
+ChatGPT key
+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

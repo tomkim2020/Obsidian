@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea/AI Code Review.md",
+                "file": "Task log/2026-01-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Code Review"
+              "title": "2026-01-14"
             }
           },
           {
@@ -250,9 +250,11 @@
   },
   "active": "1d51e324ae232e1f",
   "lastOpenFiles": [
+    "Task log/2026-01-19.md",
     "Task log/2026-01-15.md",
-    "Information/Security.md",
     "Task log/2026-01-14.md",
+    "Idea/AI Code Review.md",
+    "Information/Security.md",
     "Information/Daily Note.md",
     "Information/Linux 명령어.md",
     "Task log/2026-01-12.md",
@@ -266,7 +268,6 @@
     "Task log/2026-01-05.md",
     "Task log/Backup/{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png",
     "Task log/Backup/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
-    "Idea/AI Code Review.md",
     "Idea/AI Code Review 적용 현황.md",
     "Information/code_stat, back_stat.md",
     "Task log/Backup/2025-12-24.md",
@@ -283,7 +284,6 @@
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe",
-    "Task log/Backup/2025-11-17.md",
     "무제.canvas",
     "무제 1.canvas",
     "NotebookLM Mind Map (1).png",

@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "2c6d2372b603f2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information/전자서명.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "전자서명"
-            }
-          },
-          {
             "id": "1d51e324ae232e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task log/2026-01-26.md",
+                "file": "무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "무제"
             }
           },
           {
@@ -91,7 +77,8 @@
               "title": "2025-12-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task log/2026-01-27.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-27 의 개요"
+              "title": "무제 의 개요"
             }
           },
           {
@@ -227,16 +214,16 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "gemini-agent-view"
+              "icon": "sparkles",
+              "title": "Agent Mode"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 551.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,23 +235,27 @@
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "42e1b94aeddef9fe",
+  "active": "fd9eae3dc6f1004c",
   "lastOpenFiles": [
+    "Information/Tips.md",
+    "무제.md",
+    "Task log/2026-01-27.md",
+    "Information/Security.md",
+    "Information/Linux 명령어.md",
+    "Information/GIT.md",
+    "무제.base",
+    "무제.canvas",
     "무제 2.base",
     "무제 1.base",
-    "무제.base",
-    "Task log/2026-01-27.md",
     "Idea/AI Code Review.md",
     "Task log/2026-01-26.md",
     "Information/전자서명.md",
-    "Information/GIT.md",
-    "Information/Security.md",
     "Task log/2026-01-22.md",
     "Task log/2026-01-19.md",
-    "Information/Linux 명령어.md",
     "Information/1본부.md",
     "Task log/2026-01-14.md",
     "Task log/2026-01-15.md",
@@ -283,11 +274,9 @@
     "Task log/Backup/2025-12-22.md",
     "Task log/Backup/2025-12-16.md",
     "Task log/Backup/2025-12-15.md",
-    "Task log/Backup/2025-12-12.md",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe",
-    "무제.canvas",
     "무제 1.canvas",
     "NotebookLM Mind Map (1).png",
     "Task log/Backup/{6323BBAA-99DC-466B-A889-4FFDE69CFA71}.png",

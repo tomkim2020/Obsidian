@@ -3,7 +3,7 @@
   "chatModelName": "gemini-2.5-pro",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
-  "imageModelName": "gemini-3-pro-preview",
+  "imageModelName": "gemini-3-pro-image-preview",
   "summaryFrontmatterKey": "summary",
   "userName": "kth",
   "chatHistory": false,
@@ -26,7 +26,7 @@
   "loopDetectionThreshold": 3,
   "loopDetectionTimeWindowSeconds": 30,
   "hasSeenV4Welcome": true,
-  "lastSeenVersion": "4.3.0",
+  "lastSeenVersion": "4.3.1",
   "ragIndexing": {
     "enabled": false,
     "fileSearchStoreName": null,

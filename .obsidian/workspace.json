@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea/AI Code Review.md",
+                "file": "Task log/2026-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Code Review"
+              "title": "2026-01-27"
             }
           },
           {
@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task log/2026-01-14.md",
+                "file": "Task log/2026-01-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-14"
+              "title": "2026-01-26"
+            }
+          },
+          {
+            "id": "5b3fef8b7ad3227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information/GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
             }
           },
           {
@@ -77,8 +91,7 @@
               "title": "2025-12-12"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,23 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information/전자서명.md",
+                "file": "Task log/2026-01-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전자서명 의 개요"
-            }
-          },
-          {
-            "id": "497ff41c9aef7284",
-            "type": "leaf",
-            "state": {
-              "type": "khoj-chat-view",
-              "state": {},
-              "icon": "message-circle",
-              "title": "Khoj Chat"
+              "title": "2026-01-27 의 개요"
             }
           },
           {
@@ -224,19 +227,20 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
+              "icon": "lucide-ghost",
+              "title": "gemini-agent-view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "bases:새 베이스 생성하기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "switcher:빠른 전환기 열기": false,
@@ -244,23 +248,28 @@
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "khoj:Khoj": false,
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1d51e324ae232e1f",
+  "active": "42e1b94aeddef9fe",
   "lastOpenFiles": [
-    "Task log/2026-01-19.md",
-    "Task log/2026-01-15.md",
-    "Task log/2026-01-14.md",
-    "Idea/AI Code Review.md",
-    "Information/Security.md",
-    "Information/Daily Note.md",
-    "Information/Linux 명령어.md",
-    "Task log/2026-01-12.md",
-    "Information/GIT.md",
+    "무제 2.base",
     "무제 1.base",
     "무제.base",
+    "Task log/2026-01-27.md",
+    "Idea/AI Code Review.md",
+    "Task log/2026-01-26.md",
+    "Information/전자서명.md",
+    "Information/GIT.md",
+    "Information/Security.md",
+    "Task log/2026-01-22.md",
+    "Task log/2026-01-19.md",
+    "Information/Linux 명령어.md",
+    "Information/1본부.md",
+    "Task log/2026-01-14.md",
+    "Task log/2026-01-15.md",
+    "Information/Daily Note.md",
+    "Task log/2026-01-12.md",
     "Task log/2026-01-09.md",
     "Task log/Backup/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
     "Task log/2026-01-06.md",
@@ -275,12 +284,6 @@
     "Task log/Backup/2025-12-16.md",
     "Task log/Backup/2025-12-15.md",
     "Task log/Backup/2025-12-12.md",
-    "Idea/Server2 3.0.0.md",
-    "Idea/G3 DB.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "Task log/Backup/2025-08-20.md",
-    "Task log/Backup/2025-12-11.md",
-    "Task log/Backup/2025-12-10.md",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe",

@@ -15,7 +15,7 @@
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1768440599909,
+    "lastUpdate": 1769489481500,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,
@@ -26,7 +26,14 @@
   "loopDetectionThreshold": 3,
   "loopDetectionTimeWindowSeconds": 30,
   "hasSeenV4Welcome": true,
-  "lastSeenVersion": "4.1.2",
+  "lastSeenVersion": "4.3.0",
+  "ragIndexing": {
+    "enabled": false,
+    "fileSearchStoreName": null,
+    "excludeFolders": [],
+    "autoSync": true,
+    "includeAttachments": false
+  },
   "modelDiscoveryCache": {
     "models": [
       {

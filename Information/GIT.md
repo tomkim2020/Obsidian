@@ -3,3 +3,7 @@
 
 
 ![[{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png]]
+
+
+git init
+git remote rename origin ai-review

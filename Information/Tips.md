@@ -3,6 +3,10 @@ Task 정리
 * https://publish.obsidian.md/tasks/Getting+Started/Getting+Started
 
 
+Gemini CLI
+https://www.youtube.com/watch?v=JGwFsyyewYc
+https://www.youtube.com/watch?v=iOg4IEzK95Q
+
 
 
 

@@ -3,5 +3,8 @@
   "share-note",
   "obsidian-advanced-slides",
   "obsidian-tasks-plugin",
-  "github-sync"
+  "github-sync",
+  "calendar",
+  "terminal",
+  "templater-obsidian"
 ]

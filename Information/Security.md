@@ -26,7 +26,7 @@ Cipher99$
 [Kth@infinitt.com](mailto:Kth@infinitt.com) / 기본
 
 
-
+##### INFINITT 공유
 Cursor AI : [https://www.cursor.com](https://www.cursor.com/)   
 ID : [inftai102@infinitt.com](mailto:inftai102@infinitt.com)  
 PW : 27M]pn4tQ*dXXK=H@
@@ -62,5 +62,13 @@ PW : 27M]pn4tQ*dXXK=H@
 
 
 
-ChatGPT key
+##### ChatGPT key
 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
+
+
+
+##### WSL2
+- OS : Ubuntu 22.04.5 LTS (Jammy Jellyfish)
+- Kernal : Linux 6.6.87.2-microsoft-standard-WSL2
+- IP : 172.24.47.86
+- kth/99

@@ -1,18 +1,25 @@
 
 
-
-##### 장기 이슈
-###### 상반기
-* [[AI Code Review]]
-* CTC 에서 legacy 제품 지원 범위/방법 고민
-	* https://src.infinitt.com/issues/151063?next_issue_id=151056&prev_issue_id=151080
-###### 하반기
-
 ---
-- [ ] Mail RTM
-- [ ] [개발 완료](https://src.infinitt.com/projects/server-1-0/issues?query_id=3168)
+##### Overdue
+```tasks
+not done
+has due date
+due before today
+sort by due
+```
 
-- [ ] 주간 보고
-- [ ] 월간 보고
-
-[^1]: 1/12 확인 필요
+##### Upcomming
+```tasks
+not done
+has due date
+due after yesterday
+sort by due
+```
+##### Unplanned
+```tasks
+not done
+no due date
+no start date
+no scheduled date
+```

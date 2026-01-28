@@ -8,20 +8,20 @@ https://app.diagrams.net/#G1Gp0ADeup7nwVW2KX0gDpvpFXrBkQ9ohv#%7B%22pageId%22%3A%
 	- DB Activate 개념
 	- Duplicate option 추가
 - [x] Installation 정리
-- [ ] Service 정리
-- [ ] Server 정리
-- [ ] Service Log 에 Institution 필터 추가
-- [ ] Service configuration 정리
-	- [ ] SRG
-	- [ ] PNS
-	- [ ] ACQ
-	- [ ] DBG
-	- [ ] STG
-	- [ ] STM
-	- [ ] TSF
+- [x] Service 정리 ✅ 2026-01-28
+- Server 정리
+- Service Log 에 Institution 필터 추가
+- Service configuration 정리
+	- [ ]SRG
+	- PNS
+	- ACQ
+	- DBG
+	- STG
+	- STM
+	- TSF
 Resource 정리
 	MongoDB
 	
 
 ### Server2
-- [ ] SRG input 정의
+- SRG input 정의

@@ -4,150 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "5f9cdacb38502178",
-        "type": "split",
+        "id": "0a32df6666d8f1f5",
+        "type": "tabs",
         "children": [
           {
-            "id": "0a32df6666d8f1f5",
-            "type": "tabs",
-            "dimension": 61.724806201550386,
-            "children": [
-              {
-                "id": "1d51e324ae232e1f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task log/2026-01-28.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-01-28"
-                }
+            "id": "c8f355cb83ab951a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task log/2026-01-29.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "4d6a19ab8f0661a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task log/2026-01-28.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-01-28"
-                }
-              },
-              {
-                "id": "fdc7c961cc463977",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task log/2026-01-28.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-01-28"
-                }
-              },
-              {
-                "id": "5b3fef8b7ad3227e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Information/GIT.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "GIT"
-                }
-              },
-              {
-                "id": "a9e7cd369156a4ab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task log/2025-12-10.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-12-10"
-                }
-              },
-              {
-                "id": "870744219719871d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task log/2025-12-12.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-12-12"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "2026-01-29"
+            }
           },
           {
-            "id": "fa5013ee5bb04b26",
-            "type": "tabs",
-            "dimension": 38.275193798449614,
-            "children": [
-              {
-                "id": "9fef05cf51bd6559",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "D:\\Data\\Obsidian",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: kth@user: /mnt/d/Data/Obsidian"
-                }
-              }
-            ]
+            "id": "5b3fef8b7ad3227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task log/2026-01-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "23b463ecaa0cc6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task log/2026-01-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "8fd4335ada1c61c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task log/2026-01-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "8e53d7e5e075775f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea/Tesla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tesla"
+            }
+          },
+          {
+            "id": "4d26c5ce248bc607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task log/2026-02-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-02"
+            }
+          },
+          {
+            "id": "a9e7cd369156a4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task log/2025-12-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-10"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,7 +146,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -268,12 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Task log/2026-02-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Outline of 2026-02-02"
             }
           },
           {
@@ -295,14 +255,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "927b274753fc2a78",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,55 +286,58 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false,
       "github-sync:Sync with Remote": false,
       "terminal:Open terminal": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fdc7c961cc463977",
+  "active": "4d26c5ce248bc607",
   "lastOpenFiles": [
-    "Information/Tips.md",
     "Task log/2026-01-28.md",
+    "Task log/2026-02-02.md",
+    "Information/Tips.md",
+    "Idea/2026 Backend 업무 가이드.md",
     "Information/Security.md",
+    "Information/GIT.md",
     "Information/Daily Note.md",
-    "무제.md",
     "Information/code_stat, back_stat.md",
+    "Information/전자서명.md",
+    "Information/Linux 명령어.md",
+    "Idea/2026 Backend.md",
+    "Task log/2026-01-30.md",
+    "Idea/Tesla.md",
+    "Task log/2026-01-29.md",
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-01-30 15.34.38.excalidraw.md",
+    "Excalidraw",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/배중동.md",
+    "create a link.md",
+    "Untitled.canvas",
+    "INFINITT/G3 Viewer 인수인계 목록.md",
+    "INFINITT",
+    "2026-W05.md",
+    "무제.md",
     "Idea/G3 DB.md",
     "Idea/AI Code Review 적용 현황.md",
     "Idea/AI Code Review.md",
     "Idea/Server2 3.0.0.md",
     "Task log/Backup/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
-    "Information/GIT.md",
     "Task log/Backup/2025-05-02.md",
     "Task log/Backup/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
     "Task log/Backup/{6323BBAA-99DC-466B-A889-4FFDE69CFA71}.png",
-    "Task log/Backup/2025-05-20.md",
-    "Task log/2026-01-05.md",
-    "Task log/Backup/2025-05-21.md",
     "Task log/Backup/{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png",
     "pasted-image-1769515612878-k4rv3w.png",
     "pasted-image-1769515404111-o9y6im.png",
-    "Task log/2026-01-27.md",
-    "Information/Linux 명령어.md",
     "무제.base",
     "무제.canvas",
     "무제 2.base",
     "무제 1.base",
-    "Task log/2026-01-26.md",
-    "Information/전자서명.md",
-    "Task log/2026-01-22.md",
-    "Task log/2026-01-19.md",
-    "Information/1본부.md",
-    "Task log/2026-01-14.md",
-    "Task log/2026-01-15.md",
-    "Task log/2026-01-12.md",
-    "Task log/2026-01-09.md",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe",
     "무제 1.canvas",
     "NotebookLM Mind Map (1).png",
-    "Task log/Backup",
-    "Idea",
-    "Information",
-    "Task log"
+    "Task log/Backup"
   ]
 }

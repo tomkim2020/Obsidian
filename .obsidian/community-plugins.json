@@ -6,5 +6,7 @@
   "github-sync",
   "calendar",
   "terminal",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "mermaid-tools"
 ]

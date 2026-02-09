@@ -54,10 +54,16 @@ PW : 27M]pn4tQ*dXXK=H@
 	
 * root 정보
 	* pwd : liberty
+* 설치
+	* ops/운영12
 
 
 - gitlab 주소 : [http://10.10.50.52:8929](http://10.10.50.52:8929/)
 - kth@infinitt.com / 99
+- Tyrael (Qodo-agent)
+	- PW : dkaghghkrdls
+	- pacsbackend@gmail.com
+- 
 - ![[{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png]]
 
 

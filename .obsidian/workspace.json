@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task log/2026-02-12.md",
+                "file": "Task log/2026-02-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-12"
+              "title": "2026-02-13"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task log/2026-02-12.md",
+                "file": "Task log/2026-02-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-12"
+              "title": "Outline of 2026-02-13"
             }
           },
           {
@@ -236,8 +236,12 @@
   },
   "active": "4d26c5ce248bc607",
   "lastOpenFiles": [
-    "Task log/2026-02-09.md",
     "Task log/2026-02-12.md",
+    "Task log/2026-02-13.md",
+    "Task log/2026-01-29.md",
+    "Task log/2026-02-04.md",
+    "Task log/2026-02-02.md",
+    "Task log/2026-02-09.md",
     "Task log/2026-01-28.md",
     "Idea/AI Code Review.md",
     "Idea/2026 Backend 업무 가이드.md",
@@ -245,10 +249,7 @@
     "Information/Tips.md",
     "Task log/2026-02-06.md",
     "Idea/Tesla.md",
-    "Task log/2026-01-29.md",
     "Task log/2026-02-05.md",
-    "Task log/2026-02-04.md",
-    "Task log/2026-02-02.md",
     "Idea/G3 DB.md",
     "Excalidraw/Drawing 2026-01-30 15.34.38.excalidraw.md",
     "Information/Linux 명령어.md",
@@ -264,7 +265,6 @@
     "gemini-scribe/배중동.md",
     "create a link.md",
     "Untitled.canvas",
-    "INFINITT/G3 Viewer 인수인계 목록.md",
     "INFINITT",
     "Task log/Backup/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
     "Task log/Backup/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",

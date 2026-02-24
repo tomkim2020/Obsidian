@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Tag Guide.md",
+                "file": "01-Daily Notes/2026-02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Tag Guide"
+              "title": "2026-02-24"
             }
           }
         ],
@@ -88,7 +88,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "북마크"
+              "title": "Bookmarks"
             }
           },
           {
@@ -101,8 +101,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -220,55 +220,54 @@
       "terminal:Open terminal": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "homepage:Open homepage": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "3139a35f45014f98",
   "lastOpenFiles": [
-    "Obsidian Tag Guide.md",
-    "Untitled.canvas",
-    "Task log/2026-02-05.md",
-    "Information/Daily Note.md",
-    "Task log/2026-02-23.md",
-    "Task log/2026-02-02.md",
-    "Task log/2026-01-28.md",
-    "Task log/2026-02-24.md",
-    "Task log/2026-02-06.md",
-    "Untitled.base",
-    "gemini-scribe/Prompts/example-expert.md",
-    "Idea/Tesla.md",
-    "0-Inbox",
-    "Information/Security.md",
-    "Information/Tips.md",
-    "Task log/2026-02-19.md",
-    "Task log/2026-01-29.md",
-    "Task log/2026-02-13.md",
-    "Idea/AI Code Review.md",
-    "Idea/AI Code Review 적용 현황.md",
-    "Task log/2026-02-12.md",
-    "Task log/2026-02-04.md",
-    "Task log/2026-02-09.md",
-    "Idea/2026 Backend 업무 가이드.md",
+    "99-System/Attatchments/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
+    "90-Template/Daily Note.md",
+    "02-Notes/GIT.md",
+    "02-Notes/Linux 명령어.md",
+    "04-Resources/Security.md",
+    "04-Resources/Tips.md",
+    "04-Resources/Obsidian Tag Guide.md",
+    "04-Resources/전자서명.md",
+    "04-Resources/1본부.md",
+    "04-Resources/G3 Viewer 인수인계 목록.md",
+    "02-Notes/Server2 3.0.0.md",
     "Idea/G3 DB.md",
-    "Excalidraw/Drawing 2026-01-30 15.34.38.excalidraw.md",
-    "Information/Linux 명령어.md",
-    "Information/GIT.md",
-    "Excalidraw",
-    "INFINITT",
-    "Task log/Backup/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
-    "Task log/Backup/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
-    "Task log/Backup/{6323BBAA-99DC-466B-A889-4FFDE69CFA71}.png",
-    "Task log/Backup/{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png",
+    "Idea/AI Code Review 적용 현황.md",
+    "03-Projects/AI Code Review.md",
+    "Idea/2026 Backend 업무 가이드.md",
+    "01-Daily Notes/2026-01-28.md",
+    "99-System/Attatchments/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
+    "99-System/Attatchments/{6323BBAA-99DC-466B-A889-4FFDE69CFA71}.png",
+    "99-System/Attatchments/{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png",
+    "80-Archives",
+    "Untitled.md",
+    "80-Archives.md",
+    "02-Notes/Tesla.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "99-System/Scripts",
+    "99-System.md",
+    "99-System/Attatchments",
+    "90-Template",
+    "05-Archive",
+    "04-Resources",
+    "03-Projects",
+    "99-System",
+    "02-Notes",
+    "Untitled.canvas",
+    "01-Daily Notes/2026-02-05.md",
+    "01-Daily Notes/2026-02-23.md",
+    "01-Daily Notes/2026-02-02.md",
+    "01-Daily Notes/2026-02-24.md",
+    "01-Daily Notes/2026-02-06.md",
+    "Untitled.base",
     "pasted-image-1769515612878-k4rv3w.png",
     "pasted-image-1769515404111-o9y6im.png",
-    "무제.base",
     "무제.canvas",
-    "무제 2.base",
-    "무제 1.base",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe/Prompts",
-    "gemini-scribe",
     "무제 1.canvas",
     "NotebookLM Mind Map (1).png"
   ]

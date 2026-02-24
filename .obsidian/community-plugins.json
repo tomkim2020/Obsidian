@@ -7,5 +7,7 @@
   "terminal",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "mermaid-tools"
+  "mermaid-tools",
+  "homepage",
+  "obsidian-tagfolder"
 ]

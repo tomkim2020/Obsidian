@@ -8,59 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8f355cb83ab951a",
+            "id": "10b6e7432d98b0ba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://calendar.google.com/calendar/u/0/r/week",
+                "title": "Google Calendar - Week of February 23, 2026",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "Google Calendar - Week of February 23, 2026"
+            }
+          },
+          {
+            "id": "3139a35f45014f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task log/2026-01-29.md",
+                "file": "Obsidian Tag Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-29"
-            }
-          },
-          {
-            "id": "8e53d7e5e075775f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idea/Tesla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tesla"
-            }
-          },
-          {
-            "id": "4d26c5ce248bc607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task log/2026-02-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-13"
-            }
-          },
-          {
-            "id": "a9e7cd369156a4ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Obsidian Tag Guide"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +90,23 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "9f837d67be6d5ab4",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 265.5
   },
   "right": {
     "id": "2aabe373edf4306b",
@@ -181,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task log/2026-02-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-13"
+              "title": "Outline"
             }
           },
           {
@@ -211,11 +199,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,40 +220,41 @@
       "terminal:Open terminal": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "4d26c5ce248bc607",
+  "active": "3139a35f45014f98",
   "lastOpenFiles": [
-    "Task log/2026-02-12.md",
-    "Task log/2026-02-13.md",
-    "Task log/2026-01-29.md",
-    "Task log/2026-02-04.md",
+    "Obsidian Tag Guide.md",
+    "Untitled.canvas",
+    "Task log/2026-02-05.md",
+    "Information/Daily Note.md",
+    "Task log/2026-02-23.md",
     "Task log/2026-02-02.md",
-    "Task log/2026-02-09.md",
     "Task log/2026-01-28.md",
-    "Idea/AI Code Review.md",
-    "Idea/2026 Backend 업무 가이드.md",
+    "Task log/2026-02-24.md",
+    "Task log/2026-02-06.md",
+    "Untitled.base",
+    "gemini-scribe/Prompts/example-expert.md",
+    "Idea/Tesla.md",
+    "0-Inbox",
     "Information/Security.md",
     "Information/Tips.md",
-    "Task log/2026-02-06.md",
-    "Idea/Tesla.md",
-    "Task log/2026-02-05.md",
+    "Task log/2026-02-19.md",
+    "Task log/2026-01-29.md",
+    "Task log/2026-02-13.md",
+    "Idea/AI Code Review.md",
+    "Idea/AI Code Review 적용 현황.md",
+    "Task log/2026-02-12.md",
+    "Task log/2026-02-04.md",
+    "Task log/2026-02-09.md",
+    "Idea/2026 Backend 업무 가이드.md",
     "Idea/G3 DB.md",
     "Excalidraw/Drawing 2026-01-30 15.34.38.excalidraw.md",
     "Information/Linux 명령어.md",
     "Information/GIT.md",
-    "Information/Daily Note.md",
-    "Information/code_stat, back_stat.md",
-    "Information/전자서명.md",
-    "Idea/2026 Backend.md",
-    "Task log/2026-01-30.md",
-    "Untitled.base",
     "Excalidraw",
-    "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/배중동.md",
-    "create a link.md",
-    "Untitled.canvas",
     "INFINITT",
     "Task log/Backup/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
     "Task log/Backup/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
@@ -280,7 +270,6 @@
     "gemini-scribe/Prompts",
     "gemini-scribe",
     "무제 1.canvas",
-    "NotebookLM Mind Map (1).png",
-    "Task log/Backup"
+    "NotebookLM Mind Map (1).png"
   ]
 }

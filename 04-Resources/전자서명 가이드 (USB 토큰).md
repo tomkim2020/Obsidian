@@ -1,3 +1,13 @@
+---
+tags:
+  - audience/team
+  - category/process
+  - status/approved
+  - topic/security
+  - topic/setup
+  - type/guide
+---
+# 전자서명 가이드 (USB 토큰)
 
 안녕하세요 PF1팀 차봉현입니다.  
   

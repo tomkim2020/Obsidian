@@ -63,10 +63,12 @@ PW : 27M]pn4tQ*dXXK=H@
 - Tyrael (Qodo-agent)
 	- PW : dkaghghkrdls
 	- pacsbackend@gmail.com
-- 
+
 - ![[{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png]]
 
-
+SMB
+* net use \\coconut /user:kth kth@lemon048!
+[https://share.note.sx/5pspyjy5#gDx0qqrSQuTrJTgPHsp+50Vp5pbt1qrO7Y2qqTaYVS8](https://share.note.sx/5pspyjy5#gDx0qqrSQuTrJTgPHsp+50Vp5pbt1qrO7Y2qqTaYVS8)
 
 ##### ChatGPT key
 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

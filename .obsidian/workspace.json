@@ -10,7 +10,7 @@
           {
             "id": "0a32df6666d8f1f5",
             "type": "tabs",
-            "dimension": 61.724806201550386,
+            "dimension": 61.72480620155038,
             "children": [
               {
                 "id": "1d51e324ae232e1f",
@@ -52,6 +52,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "2026-01-28"
+                }
+              },
+              {
+                "id": "14f84371364f57aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Task log/2026-03-17.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-03-17"
                 }
               },
               {
@@ -97,7 +111,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "fa5013ee5bb04b26",
@@ -141,7 +155,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: kth@user: /mnt/d/Data/Obsidian"
+                  "title": "터미널: cmd"
                 }
               }
             ]
@@ -170,7 +184,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -306,13 +320,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "gemini-scribe:Gemini Scribe: Agent Mode": false,
       "github-sync:Sync with Remote": false,
@@ -320,10 +334,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fdc7c961cc463977",
+  "active": "14f84371364f57aa",
   "lastOpenFiles": [
-    "Information/Tips.md",
+    "Task log/2026-02-01.md",
+    "Task log/2026-03-17.md",
     "Task log/2026-01-28.md",
+    "Information/Tips.md",
     "Information/Security.md",
     "Information/Daily Note.md",
     "무제.md",
@@ -356,8 +372,6 @@
     "Information/1본부.md",
     "Task log/2026-01-14.md",
     "Task log/2026-01-15.md",
-    "Task log/2026-01-12.md",
-    "Task log/2026-01-09.md",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe",

@@ -55,31 +55,31 @@
                 }
               },
               {
-                "id": "14f84371364f57aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task log/2026-03-17.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-03-17"
-                }
-              },
-              {
                 "id": "5b3fef8b7ad3227e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Information/GIT.md",
+                    "file": "무제.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "GIT"
+                  "title": "무제"
+                }
+              },
+              {
+                "id": "b2ca8fbd0b6337e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-Daily Notes/2026-03-17.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-03-17"
                 }
               },
               {
@@ -111,7 +111,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "fa5013ee5bb04b26",
@@ -334,52 +334,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14f84371364f57aa",
+  "active": "b2ca8fbd0b6337e5",
   "lastOpenFiles": [
-    "Task log/2026-02-01.md",
-    "Task log/2026-03-17.md",
-    "Task log/2026-01-28.md",
-    "Information/Tips.md",
-    "Information/Security.md",
-    "Information/Daily Note.md",
     "무제.md",
-    "Information/code_stat, back_stat.md",
-    "Idea/G3 DB.md",
-    "Idea/AI Code Review 적용 현황.md",
-    "Idea/AI Code Review.md",
-    "Idea/Server2 3.0.0.md",
+    "01-Daily Notes/2026-02-01.md",
+    "01-Daily Notes/2026-03-17.md",
+    "99-System/Excalidraw/Drawing 2026-01-30 15.34.38.excalidraw.md",
+    "99-System/Attatchments/{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png",
+    "99-System/Attatchments/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
+    "99-System/Attatchments/{6323BBAA-99DC-466B-A889-4FFDE69CFA71}.png",
+    "99-System/Attatchments/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
+    "99-System/Excalidraw",
+    "99-System/Attatchments",
+    "99-System",
+    "90-Template/SKILL.md",
+    "90-Template/Daily Note.md",
+    "90-Template",
+    "04-Resources/전자서명 가이드 (USB 토큰).md",
+    "04-Resources/Oracle 26ai.md",
+    "04-Resources/Tips.md",
+    "04-Resources/Security.md",
+    "04-Resources/code_stat, back_stat.md",
+    "04-Resources/Obsidian Tag Guide.md",
+    "04-Resources/2023 조직 개편 제품 인수인계 목록.md",
+    "04-Resources/AI.md",
+    "04-Resources/1본부.md",
+    "04-Resources",
+    "Task log/2026-03-17.md",
+    "03-Projects/AI Code Review.md",
+    "03-Projects",
+    "02-Notes/Tesla.md",
+    "02-Notes/항공권.md",
+    "02-Notes/GitSVN.md",
+    "02-Notes/Server2 3.0.0.md",
+    "02-Notes/Linux 명령어.md",
+    "02-Notes/Qodo Merge.md",
+    "02-Notes/GIT.md",
+    "02-Notes",
+    "01-Daily Notes/Report.md",
+    "01-Daily Notes/2026-03-13.md",
+    "01-Daily Notes",
     "Task log/Backup/{0D539939-A1BF-424C-A5D1-EAFEFA47D049}.png",
-    "Information/GIT.md",
-    "Task log/Backup/2025-05-02.md",
     "Task log/Backup/{C73B6A00-4107-4C74-86BF-0277DAF3A992}.png",
     "Task log/Backup/{6323BBAA-99DC-466B-A889-4FFDE69CFA71}.png",
-    "Task log/Backup/2025-05-20.md",
-    "Task log/2026-01-05.md",
-    "Task log/Backup/2025-05-21.md",
     "Task log/Backup/{9D61CF6C-9D38-42C9-92B8-F9B3AF7BD426}.png",
     "pasted-image-1769515612878-k4rv3w.png",
     "pasted-image-1769515404111-o9y6im.png",
-    "Task log/2026-01-27.md",
-    "Information/Linux 명령어.md",
     "무제.base",
     "무제.canvas",
     "무제 2.base",
-    "무제 1.base",
-    "Task log/2026-01-26.md",
-    "Information/전자서명.md",
-    "Task log/2026-01-22.md",
-    "Task log/2026-01-19.md",
-    "Information/1본부.md",
-    "Task log/2026-01-14.md",
-    "Task log/2026-01-15.md",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe/Prompts",
-    "gemini-scribe",
-    "무제 1.canvas",
-    "NotebookLM Mind Map (1).png",
-    "Task log/Backup",
-    "Idea",
-    "Information",
-    "Task log"
+    "무제 1.canvas"
   ]
 }

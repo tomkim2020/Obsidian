@@ -1,10 +1,14 @@
 [
-  "gemini-scribe",
   "share-note",
   "obsidian-advanced-slides",
   "obsidian-tasks-plugin",
   "github-sync",
   "calendar",
   "terminal",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "mermaid-tools",
+  "homepage",
+  "obsidian-tagfolder",
+  "obsidian-custom-attachment-location"
 ]

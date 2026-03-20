@@ -1,6 +1,10 @@
 [Gw.infinitt.com](http://gw.infinitt.com/)
 1234!@#$%!
 
+G3 Viewer
+[http://10.10.100.186](http://10.10.100.186/) (hostname: QCSERVER2) admin/1
+
+
 Svn
 Kq]q&S5;v9^]U=Q
 

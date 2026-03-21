@@ -19,7 +19,16 @@ tags:
 - [ ] 요크핸들 #tesla 
 - [ ] 수납 #tesla 
 - [ ] 액정보호필름 #tesla 
-- [ ] 
+- [ ] 레그 익스텐션 시트 yz 29,168원 #alliexpress #tesla
+	https://ko.aliexpress.com/item/1005010620601688.html?pvid=e33ecb0f-08c8-4833-9a3c-d950ebb8cec6&pdp_ext_f=%7B%22ship_from%22:%22CN%22,%22sku_id%22:%2212000052999238948%22%7D&scm=1007.28480.422277.0&scm-url=1007.28480.422277.0&scm_id=1007.28480.422277.0&pdp_npi=6%40dis%21KRW%21%E2%82%A9%2038%2C574%21%E2%82%A9%2029%2C168%21%21%2125.09%2118.97%21%40210156fc17740697001235707e434d%2112000052999238948%21gdf%21KR%21163745867%21X%211%210%21n_tag%3A-29919%3Bd%3A21972fa8%3Bm03_new_user%3A-29895%3BpisId%3A5000000201310532&spm=a2g0o.tm1000029706.4162782170.dundefined&aecmd=true
+
+
+
+
+
+
+
+
 
 
 sagefox99@gmail.com

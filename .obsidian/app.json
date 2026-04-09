@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "openBehavior": "daily"
+  "openBehavior": "daily",
+  "readableLineLength": false
 }
